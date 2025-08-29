@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you reference the DCL Framework, please cite this repository."
+title: "DCL Framework"
+authors:
+  - family-names: Z
+    given-names: Benji
+    name-particle: ""
+    name-suffix: ""
+keywords:
+  - DCL
+  - agency
+  - mental clarity
+  - digital minimalism
+version: "1.0.0"
+date-released: "YYYY-MM-DD"
+doi: ""
+url: "https://github.com/Benji-Z-dev/DCL-Framework"
+license: "CC-BY-NC-4.0"
+abstract: >
+  The DCL is a mental clarity framework—Deliberate.
+  Conscious. Lucid.—designed to help individuals reclaim agency and reduce
+  cognitive fog in digitally-saturated environments. This repository serves as
+  a timestamped public record of its authorship and evolution.
